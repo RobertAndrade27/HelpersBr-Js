@@ -40,15 +40,6 @@ console.log(resultado);
 
 Abaixo, você encontrará a documentação completa de cada helper, incluindo o que ele faz, quais parâmetros ele espera receber, o tipo de dados necessário e exemplos práticos de uso. 
 
-Aqui está o helper documentado de forma resumida em uma tabela:
-
----
-Ótimo, aqui está o formato inicial da tabela para documentar os helpers. Vou começar com o `formatZipCode` e incrementarei conforme você enviar os próximos:
-
----
-
-Aqui está o helper `toCurrency` adicionado à tabela:
-
 ---
 
 ### Helpers disponíveis

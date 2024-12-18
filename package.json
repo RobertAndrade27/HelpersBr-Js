@@ -1,8 +1,10 @@
 {
   "name": "helpersbr-js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "helpers/index.js",
   "type": "module",
+  "license": "MIT",
+  "author": "Robert Andrade",
   "devDependencies": {
     "jest": "^29.7.0"
   },
