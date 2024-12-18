@@ -70,4 +70,9 @@ Aqui está o helper `toCurrency` adicionado à tabela:
 
 
 --- 
+## Contribuidores
+
+Agradecemos a todos os contribuidores que ajudaram no desenvolvimento:
+
+[![Contributors](https://contrib.rocks/image?repo=RobertAndrade27/HelpersBr-Js)](https://github.com/RobertAndrade27/HelpersBr-Js/graphs/contributors)
 
