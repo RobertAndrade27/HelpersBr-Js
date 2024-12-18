@@ -13,3 +13,5 @@ export  { default as customQueryStringify } from './customQueryStringify'
 
 export  { default as removeSpecialChars } from './removeSpecialChars'
 export  { default as toCurrency } from './toCurrency'
+
+export  { default as formattedPhone } from './formatPhone'

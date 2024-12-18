@@ -1,4 +1,6 @@
-import { formatPhone }  from "../helpers/index"
+
+
+import { formatPhone } from "../helpers/index"
 
 
 test("Se receber parametro true será incluido o digito 9 após o DDD", () => {
