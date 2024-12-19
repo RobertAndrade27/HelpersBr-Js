@@ -9,9 +9,3 @@ function removeSpecialChars(chars, options = {}) {
 }
 
 export default removeSpecialChars;
-
-// Exemplos de uso
-// const texto = "A1!@#$%¨&*()*/+.B2 C4";
-// console.log(removeSpecialChars(texto, { ignore: "@ *" })); // Output: "A1/B2 C4"
-// console.log(removeSpecialChars(texto, { ignore: "./" })); // Output: "A1.B2 C4"
-// console.log(removeSpecialChars(texto)); // Output: "A1B2C4"
